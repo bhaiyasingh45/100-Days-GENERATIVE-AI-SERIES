@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<defs>
+  <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5B21B6"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-opacity=".12"/></filter>
+</defs>
+<rect width="1080" height="1920" fill="#F8FAFC"/>
+<rect width="1080" height="190" fill="#080A2A"/>
+<circle cx="75" cy="92" r="42" fill="#7C3AED"/><text x="75" y="108" text-anchor="middle" font-family="Arial" font-size="44" fill="white">AI</text>
+<text x="140" y="82" font-family="Arial" font-size="38" font-weight="700" fill="white">GENERATIVE AI SERIES</text>
+<text x="140" y="128" font-family="Arial" font-size="23" fill="#C4B5FD">LEARN • UNDERSTAND • BUILD THE FUTURE</text>
+<rect x="850" y="22" width="190" height="145" rx="28" fill="url(#purple)"/>
+<text x="945" y="88" text-anchor="middle" font-family="Arial" font-size="62" font-weight="700" fill="white">#01</text>
+<text x="945" y="126" text-anchor="middle" font-family="Arial" font-size="19" fill="white">SERIES</text>
+
+<text x="540" y="285" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#0F172A">What is</text>
+<text x="540" y="350" text-anchor="middle" font-family="Arial" font-size="68" font-weight="800" fill="#5B21B6">Artificial Intelligence?</text>
+<line x1="360" y1="385" x2="720" y2="385" stroke="#7C3AED" stroke-width="4"/>
+
+<rect x="70" y="430" width="940" height="245" rx="32" fill="#F1EDFF" filter="url(#shadow)"/>
+<circle cx="180" cy="552" r="82" fill="#E9D5FF"/><text x="180" y="570" text-anchor="middle" font-family="Arial" font-size="76" fill="#5B21B6">🧠</text>
+<text x="315" y="510" font-family="Arial" font-size="30" fill="#0F172A">Artificial Intelligence (AI) is the</text>
+<text x="315" y="553" font-family="Arial" font-size="30" font-weight="700" fill="#5B21B6">simulation of human intelligence</text>
+<text x="315" y="596" font-family="Arial" font-size="30" fill="#0F172A">by machines to perform tasks that normally</text>
+<text x="315" y="639" font-family="Arial" font-size="30" fill="#0F172A">require human thinking.</text>
+
+<rect x="315" y="725" width="450" height="64" rx="20" fill="url(#purple)"/>
+<text x="540" y="767" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="white">AI ENABLES MACHINES TO...</text>
+
+<g font-family="Arial" text-anchor="middle">
+<circle cx="125" cy="875" r="65" fill="#DBEAFE"/><text x="125" y="892" font-size="55">🧠</text><text x="125" y="970" font-size="24" font-weight="700" fill="#111827">LEARN</text><text x="125" y="1002" font-size="20" fill="#475569">from data</text>
+<circle cx="330" cy="875" r="65" fill="#DCFCE7"/><text x="330" y="892" font-size="55">📊</text><text x="330" y="970" font-size="24" font-weight="700" fill="#111827">REASON</text><text x="330" y="1002" font-size="20" fill="#475569">and decide</text>
+<circle cx="540" cy="875" r="65" fill="#FEF3C7"/><text x="540" y="892" font-size="55">💬</text><text x="540" y="970" font-size="24" font-weight="700" fill="#111827">UNDERSTAND</text><text x="540" y="1002" font-size="20" fill="#475569">language & patterns</text>
+<circle cx="750" cy="875" r="65" fill="#EDE9FE"/><text x="750" y="892" font-size="55">💡</text><text x="750" y="970" font-size="24" font-weight="700" fill="#111827">SOLVE</text><text x="750" y="1002" font-size="20" fill="#475569">complex problems</text>
+<circle cx="955" cy="875" r="65" fill="#FCE7F3"/><text x="955" y="892" font-size="55">🤖</text><text x="955" y="970" font-size="24" font-weight="700" fill="#111827">INTERACT</text><text x="955" y="1002" font-size="20" fill="#475569">with humans</text>
+</g>
+
+<text x="540" y="1080" text-anchor="middle" font-family="Arial" font-size="34" font-weight="800" fill="#0F172A">EXAMPLES OF AI IN ACTION</text>
+<rect x="70" y="1120" width="455" height="300" rx="28" fill="white" stroke="#DBEAFE" stroke-width="3"/>
+<text x="105" y="1170" font-family="Arial" font-size="27" font-weight="700" fill="#1D4ED8">REAL-WORLD EXAMPLES</text>
+<text x="110" y="1230" font-family="Arial" font-size="23" fill="#111827">• Recommendation systems</text>
+<text x="110" y="1280" font-family="Arial" font-size="23" fill="#111827">• Voice assistants</text>
+<text x="110" y="1330" font-family="Arial" font-size="23" fill="#111827">• Spam & fraud detection</text>
+<text x="110" y="1380" font-family="Arial" font-size="23" fill="#111827">• Autonomous systems</text>
+<rect x="555" y="1120" width="455" height="300" rx="28" fill="white" stroke="#DCFCE7" stroke-width="3"/>
+<text x="590" y="1170" font-family="Arial" font-size="27" font-weight="700" fill="#15803D">AI IS ALL AROUND US</text>
+<text x="590" y="1230" font-family="Arial" font-size="23" fill="#111827">Healthcare</text>
+<text x="590" y="1280" font-family="Arial" font-size="23" fill="#111827">Finance</text>
+<text x="590" y="1330" font-family="Arial" font-size="23" fill="#111827">E-commerce</text>
+<text x="590" y="1380" font-family="Arial" font-size="23" fill="#111827">Education & Entertainment</text>
+
+<rect x="70" y="1470" width="940" height="210" rx="30" fill="#FFF7E6" stroke="#FDE68A" stroke-width="3"/>
+<text x="120" y="1540" font-family="Arial" font-size="30" font-weight="800" fill="#111827">KEY TAKEAWAY</text>
+<line x1="310" y1="1510" x2="310" y2="1635" stroke="#F59E0B" stroke-width="3"/>
+<text x="350" y="1540" font-family="Arial" font-size="26" fill="#111827">AI is not simply about replacing humans.</text>
+<text x="350" y="1582" font-family="Arial" font-size="26" fill="#5B21B6" font-weight="700">It is about augmenting human capabilities.</text>
+<text x="350" y="1624" font-family="Arial" font-size="23" fill="#475569">Use machines to solve problems more intelligently.</text>
+
+<rect y="1740" width="1080" height="180" fill="#080A2A"/>
+<text x="80" y="1795" font-family="Arial" font-size="21" fill="#C4B5FD">KNOWLEDGE TODAY • LEAD TOMORROW.</text>
+<text x="540" y="1795" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#A78BFA">NEXT UP → #02</text>
+<text x="540" y="1835" text-anchor="middle" font-family="Arial" font-size="22" fill="white">AI vs Machine Learning vs Deep Learning</text>
+<text x="540" y="1880" text-anchor="middle" font-family="Arial" font-size="20" fill="#C4B5FD">FOLLOW THE SERIES TO MASTER GENERATIVE AI FUNDAMENTALS</text>
+</svg>
