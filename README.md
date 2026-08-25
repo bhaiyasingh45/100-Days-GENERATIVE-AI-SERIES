@@ -13,7 +13,7 @@ Each day contains:
 ## Progress
 
 - [x] Day 01 — What is Artificial Intelligence?
-- [ ] Day 02 — AI vs Machine Learning vs Deep Learning
+- [x] Day 02 — AI vs Machine Learning vs Deep Learning
 - [ ] Day 03 — What is Generative AI?
 - [ ] Day 04 — Generative AI vs Traditional AI
 - [ ] Day 05 — How Does Generative AI Work?
@@ -28,3 +28,7 @@ The remaining days follow the 100-day roadmap established for the series.
 ## Visual standard
 
 All series images use a **9:16 portrait format** with a consistent dark navy header/footer, purple primary accents, blue/green secondary accents, light background, clean educational infographic layout, episode numbering, key takeaway, and next-up footer.
+
+## Daily workflow
+
+Images are added manually as the final Instagram-ready assets. The repository stores the corresponding educational content and series metadata for each day.
