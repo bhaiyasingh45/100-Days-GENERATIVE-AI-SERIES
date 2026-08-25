@@ -1,3 +1,4 @@
+
 # Day 02 — AI vs Machine Learning vs Deep Learning
 
 ## Title
@@ -37,7 +38,7 @@ Follow the series to learn **Generative AI from fundamentals to LLMs, RAG, and A
 #generativeai #artificialintelligence #ai #machinelearning #deeplearning #llm #largelanguagemodels #genai #aiengineering #datascience #tech #technology #aiagents #rag #promptengineering #futureofai #learnai #aiexplained #generativeaiseries #aicommunity
 
 ## Image
-Image intentionally not included. Add the final Instagram-ready 9:16 image manually as an asset in this folder.
+<img width="941" height="1672" alt="ChatGPT Image Aug 25, 2026, 10_53_56 AM" src="https://github.com/user-attachments/assets/1f35435d-5304-46e9-97e9-b1b54b3b972b" />
 
 ## Format
 9:16 portrait — Instagram-ready.
