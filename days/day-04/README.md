@@ -24,7 +24,7 @@ Think of it simply:
 ✨ **Generative AI → What can be created?**
 
 The two aren't competitors—they can **work together** to build smarter AI applications.
-<img width="941" height="1672" alt="4" src="https://github.com/user-attachments/assets/7b46f1a2-e6e4-463a-8958-34b4ecac298e" />
+
 
 💡 **Key takeaway:**  
 Traditional AI helps us understand and optimize the present.  
@@ -38,7 +38,7 @@ Follow the **100-Day Generative AI Series** to learn everything from AI fundamen
 #generativeai #artificialintelligence #ai #machinelearning #deeplearning #llm #largelanguagemodels #genai #aiengineering #datascience #tech #technology #aiagents #rag #promptengineering #futureofai #learnai #aiexplained #generativeaiseries #aicommunity
 
 ## Image
-Image intentionally not included. Add the final Instagram-ready 9:16 image manually as an asset in this folder.
+<img width="941" height="1672" alt="4" src="https://github.com/user-attachments/assets/7b46f1a2-e6e4-463a-8958-34b4ecac298e" />
 
 ## Format
 9:16 portrait — Instagram-ready.
