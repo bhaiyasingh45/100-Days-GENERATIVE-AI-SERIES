@@ -40,7 +40,8 @@ Follow the series to learn **Generative AI from fundamentals to LLMs, RAG, and A
 #generativeai #artificialintelligence #ai #machinelearning #deeplearning #llm #largelanguagemodels #genai #aiengineering #datascience #tech #technology #aiagents #rag #promptengineering #futureofai #learnai #aiexplained #generativeaiseries #aicommunity
 
 ## Image
-Image intentionally not included. Add the final Instagram-ready 9:16 image manually as an asset in this folder.
+<img width="941" height="1672" alt="3" src="https://github.com/user-attachments/assets/938a6f3c-1668-4164-9cf8-fdae66af8c82" />
+
 
 ## Format
 9:16 portrait — Instagram-ready.
