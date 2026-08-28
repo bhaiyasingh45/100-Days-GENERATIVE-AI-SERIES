@@ -16,7 +16,7 @@ Each day contains:
 - [x] Day 02 — AI vs Machine Learning vs Deep Learning
 - [x] Day 03 — What is Generative AI?
 - [x] Day 04 — Generative AI vs Traditional AI
-- [ ] Day 05 — How Does Generative AI Work?
+- [x] Day 05 — How Does Generative AI Work?
 - [ ] Day 06 — What Are Foundation Models?
 - [ ] Day 07 — What is an LLM?
 - [ ] Day 08 — What is NLP?
