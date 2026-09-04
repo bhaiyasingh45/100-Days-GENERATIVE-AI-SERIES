@@ -17,7 +17,7 @@ Each day contains:
 - [x] Day 03 — What is Generative AI?
 - [x] Day 04 — Generative AI vs Traditional AI
 - [x] Day 05 — How Does Generative AI Work?
-- [ ] Day 06 — What Are Foundation Models?
+- [x] Day 06 — What Are Foundation Models?
 - [ ] Day 07 — What is an LLM?
 - [ ] Day 08 — What is NLP?
 - [ ] Day 09 — What is a Multimodal AI Model?
