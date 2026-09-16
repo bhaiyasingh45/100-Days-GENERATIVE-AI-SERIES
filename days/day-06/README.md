@@ -35,7 +35,8 @@ Follow the **100-Day Generative AI Series** to learn from AI fundamentals to **L
 #generativeai #artificialintelligence #ai #machinelearning #deeplearning #llm #largelanguagemodels #genai #foundationmodels #aiengineering #datascience #tech #technology #aiagents #rag #promptengineering #futureofai #learnai #aiexplained #generativeaiseries #aicommunity
 
 ## Image
-Image intentionally not included. Add the final Instagram-ready 9:16 image manually as an asset in this folder.
+<img width="941" height="1672" alt="6" src="https://github.com/user-attachments/assets/72ab56f0-4f4f-4b46-8200-d2b1ea50a04f" />
+
 
 ## Format
 9:16 portrait — Instagram-ready.
