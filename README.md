@@ -21,7 +21,7 @@ Each day contains:
 - [x] Day 07 — What is an LLM?
 - [x] Day 08 — What is NLP?
 - [x] Day 09 — What is a Multimodal AI Model?
-- [ ] Day 10 — Generative AI Use Cases & Applications
+- [x] Day 10 — Generative AI Use Cases & Applications
 
 The remaining days follow the 100-day roadmap established for the series.
 
